@@ -9,6 +9,7 @@ TR: Modeli çalıştırabilmek için Darknet (https://pjreddie.com/darknet/) adr
 ING: In order to run the model, it is necessary to configure the computer from the Darknet (https://pjreddie.com/darknet/) address. Then you can test it by integrating the shared files. In the configuration for your own computer, enter your computer path where .... is in the t_10bin.data file content. 
 
 CITE THIS
+---------
 Plain Text:
 S. Birogul, G. Temür and U. Kose, "YOLO Object Recognition Algorithm and “Buy-Sell Decision” Model Over 2D Candlestick Charts," in IEEE Access, vol. 8, pp. 91894-91915, 2020, doi: 10.1109/ACCESS.2020.2994282.
 
