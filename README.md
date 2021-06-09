@@ -7,7 +7,7 @@ CITE THIS
 
 Plain Text:
 S. Birogul, G. Temür and U. Kose, "YOLO Object Recognition Algorithm and “Buy-Sell Decision” Model Over 2D Candlestick Charts," in IEEE Access, vol. 8, pp. 91894-91915, 2020, doi: 10.1109/ACCESS.2020.2994282.
-----------------------------
+
 BibTeX:
 @ARTICLE{9092995,
   author={Birogul, Serdar and Temür, Günay and Kose, Utku},
@@ -18,23 +18,3 @@ BibTeX:
   number={},
   pages={91894-91915},
   doi={10.1109/ACCESS.2020.2994282}}
-----------------------------
-RIS:
-TY  - JOUR
-TI  - YOLO Object Recognition Algorithm and “Buy-Sell Decision” Model Over 2D Candlestick Charts
-T2  - IEEE Access
-SP  - 91894
-EP  - 91915
-AU  - S. Birogul
-AU  - G. Temür
-AU  - U. Kose
-PY  - 2020
-DO  - 10.1109/ACCESS.2020.2994282
-JO  - IEEE Access
-IS  - 
-SN  - 2169-3536
-VO  - 8
-VL  - 8
-JA  - IEEE Access
-Y1  - 2020
-ER  - 
