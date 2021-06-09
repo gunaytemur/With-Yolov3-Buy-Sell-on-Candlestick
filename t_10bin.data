@@ -1,5 +1,5 @@
 classes= 2
-train  = data_10bin/train.txt
-valid  = data_10bin/test.txt
-names  = t.names
-backup = backup/backup_10bin/
+train  = .........../train.txt
+valid  = .........../test.txt
+names  = .........../t.names
+backup = .........../backup/backup_10bin/
