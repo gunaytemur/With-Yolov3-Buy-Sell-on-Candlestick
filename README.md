@@ -4,9 +4,9 @@ ING: Implementation of Darknet Yolov3 Object Recognition Algorithm as a Buy-Sell
 TR: Darknet Yolov3 Nesne Tanıma Algoritmasının Mum Grafikleri Üzerinde Al-Sat Karar Destek Sistemi Olarak Gerçeklenmesi.
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9092995
 
-TR: Modeli çalıştırabilmek için Darknet (https://pjreddie.com/darknet/) adresinden bilgisayar yapılandırılmasının yapılması gerekmektedir. Ardından paylaşılan dosyları entegre ederek test edebilirsiniz. Kendi bilgisayarınız için yapılandımada, t_10bin.data dosya içeiriğinde .... olan yerelere kendi bilgisayar yolunuzu giriniz.
+TR: Modeli çalıştırabilmek için Darknet (https://pjreddie.com/darknet/) adresinden bilgisayar yapılandırılmasının yapılması gerekmektedir. Ardından paylaşılan dosyaları entegre ederek test edebilirsiniz. Kendi bilgisayarınız için yapılandımada, t_10bin.data dosya içeiriğinde .... olan yerelere kendi bilgisayar yolunuzu giriniz.
 
-ING: In order to run the model, it is necessary to configure the computer from the Darknet (https://pjreddie.com/darknet/) address. Then you can test the shared files by integrating them. In the configuration for your own computer, enter your computer path where .... is in the t_10bin.data file content.
+ING: In order to run the model, it is necessary to configure the computer from the Darknet (https://pjreddie.com/darknet/) address. Then you can test it by integrating the shared files. In the configuration for your own computer, enter your computer path where .... is in the t_10bin.data file content. 
 
 CITE THIS
 Plain Text:
